@@ -1,4 +1,4 @@
-# Hi, I'm Nguyễn Thị Ánh Ngân 👋
+# Hi, I'm Nguyễn Thị Ánh Ngân 
 
 ## Data Analyst Intern Candidate  
 ### SQL • Python • Power BI • Business Analytics • Machine Learning Fundamentals
