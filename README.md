@@ -156,7 +156,6 @@ My goal is to become a data analyst who can not only write queries and build das
 ## Contact
 
 - GitHub: [nguyenanhngan0803-stack](https://github.com/nguyenanhngan0803-stack)
-- LinkedIn: [Insert your LinkedIn URL]
-- Email: [Insert your email]
+- Email: [nguyenanhngan0803@gmail.com]
 
 ---
